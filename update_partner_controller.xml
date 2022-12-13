@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.7</version>
+    <url>https://download.yteco.live/static/update_desktop/PartnerController.zip</url>
+    <changelog>https://download.yteco.live/static/update_desktop/update_partner_controller.xml</changelog>
+    <mandatory>false</mandatory>
+</item>
