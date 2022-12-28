@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.5.0</version>
+    <version>1.0.5.1</version>
     <url>https://github.com/Killer1504/UpdateSoftWare/raw/main/PartnerController.zip</url>
     <changelog>https://github.com/Killer1504/UpdateSoftWare/blob/main/update_partner_controller.xml</changelog>
     <mandatory>false</mandatory>
