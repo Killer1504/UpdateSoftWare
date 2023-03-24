@@ -1,3 +1,3 @@
 git add .
-git commit -m "version 1.0.0.0 - video extension "
+git commit -m "version 1.2.0.0 - video render lyric "
 git push
