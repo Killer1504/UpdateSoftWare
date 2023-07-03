@@ -1,0 +1,8 @@
+{
+    "seo" : {
+        "video" : [
+            "https://www.youtube.com/watch?v=tywigPZcAQs",
+            "https://www.youtube.com/watch?v=UOe3kADWh5I"
+        ]
+    }
+}
