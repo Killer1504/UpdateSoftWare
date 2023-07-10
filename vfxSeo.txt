@@ -6,7 +6,10 @@
             "https://www.youtube.com/watch?v=6wsTrYGa0c8",
             "https://www.youtube.com/watch?v=Nbmv8-exOxY",
             "https://www.youtube.com/watch?v=qrW33VwgfFQ",
-            "https://www.youtube.com/watch?v=mkVrzan8UWk",
+            "https://www.youtube.com/watch?v=mkVrzan8UWk"
+        ],
+        "channel" : [
+            "https://www.youtube.com/@BeautifulRelaxingMusic835/videos"
         ]
     }
 }
