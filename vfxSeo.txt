@@ -1,8 +1,12 @@
 {
     "seo" : {
         "video" : [
-            "https://www.youtube.com/watch?v=tywigPZcAQs",
-            "https://www.youtube.com/watch?v=UOe3kADWh5I"
+            "https://www.youtube.com/watch?v=prpjxIjn0rg",
+            "https://www.youtube.com/watch?v=ckE2dDu7PIw",
+            "https://www.youtube.com/watch?v=6wsTrYGa0c8",
+            "https://www.youtube.com/watch?v=Nbmv8-exOxY",
+            "https://www.youtube.com/watch?v=qrW33VwgfFQ",
+            "https://www.youtube.com/watch?v=mkVrzan8UWk",
         ]
     }
 }
