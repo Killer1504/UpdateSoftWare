@@ -11,7 +11,7 @@
         "channel" : [
             "https://www.youtube.com/@BeautifulRelaxingMusic835/videos"
         ],
-        "config" {
+        "config" : {
             "isSyncVideoToUpdateProfile": true
         }
     }
