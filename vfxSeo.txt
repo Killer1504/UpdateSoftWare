@@ -12,7 +12,7 @@
             "https://www.youtube.com/@BeautifulRelaxingMusic835/videos"
         ],
         "config" : {
-            "isSyncVideoToUpdateProfile": false
+            "isSyncVideoToUpdateProfile": true
         }
     }
 }
