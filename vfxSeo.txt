@@ -1,6 +1,6 @@
 {
     "seo" : {
-        "video" : [
+        "video " : [
             "https://www.youtube.com/watch?v=nC6OOpphZkc",
             "https://www.youtube.com/watch?v=ckE2dDu7PIw",
             "https://www.youtube.com/watch?v=6wsTrYGa0c8",
